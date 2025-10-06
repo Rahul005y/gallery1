@@ -1,1 +1,1 @@
-# gallerye
+# gallery
